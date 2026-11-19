@@ -1,0 +1,44 @@
+name: 发布余火列车试玩
+
+on:
+  push:
+    branches: [codex/pages-auto-preview]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: 验证游戏与课包
+        run: |
+          node --test *.test.mjs
+          node tools/generate-courses.mjs --check
+      - name: 打包游戏
+        run: |
+          mkdir -p _site/assets/study _site/data
+          cp index.html game.css kb3-word-packs.json _site/
+          cp audio.mjs battle.mjs captain-panel.mjs course-map.mjs game.mjs \
+            map-ui.mjs progress.mjs reading-recognizer.mjs scene.mjs study-desk.mjs study.mjs _site/
+          cp data/formal-courses.generated.mjs _site/data/
+          cp assets/study/*.m4a _site/assets/study/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+      - uses: actions/deploy-pages@v4
+        id: deployment
