@@ -1,0 +1,5237 @@
+{
+  "version": 1,
+  "language": "en-GB",
+  "book": "剑桥国际少儿英语 学生用书 3",
+  "glossarySource": {
+    "section": "Word list",
+    "printedPageRange": [
+      80,
+      87
+    ],
+    "pdfPageRange": [
+      87,
+      94
+    ],
+    "order": "逐页从左栏到右栏",
+    "fourSkills": "原书以星号标注的四会词汇",
+    "zhHint": "为游戏整理的简短中文提示"
+  },
+  "unitPackSource": "原英语项目已核对的教材正文核心词，按原单元整理。关联词表通过 glossaryEntryIds 查找。",
+  "glossary": [
+    {
+      "id": "kb3-wl-001",
+      "en": "above",
+      "zhHint": "在……上方",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-002",
+      "en": "accident",
+      "zhHint": "事故，意外",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-003",
+      "en": "add",
+      "zhHint": "加，增加",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-004",
+      "en": "address",
+      "zhHint": "地址",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-005",
+      "en": "adventure",
+      "zhHint": "冒险，探险",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-006",
+      "en": "Africa",
+      "zhHint": "非洲",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-007",
+      "en": "after",
+      "zhHint": "在……之后",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-008",
+      "en": "air",
+      "zhHint": "空气",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-009",
+      "en": "all",
+      "zhHint": "全部，所有",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-010",
+      "en": "alphabet",
+      "zhHint": "字母表",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-011",
+      "en": "always",
+      "zhHint": "总是",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-012",
+      "en": "American",
+      "zhHint": "美国人，美国人的",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-013",
+      "en": "angry",
+      "zhHint": "生气的",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-014",
+      "en": "another",
+      "zhHint": "另一个，另外的",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-015",
+      "en": "answer",
+      "zhHint": "回答",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-016",
+      "en": "any",
+      "zhHint": "任何一个，一些",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-017",
+      "en": "artist",
+      "zhHint": "艺术家，画家",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-018",
+      "en": "Asia",
+      "zhHint": "亚洲",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-019",
+      "en": "at home",
+      "zhHint": "在家",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-020",
+      "en": "aunt",
+      "zhHint": "姑姑，姨妈，伯母，婶婶，舅妈",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-021",
+      "en": "back",
+      "zhHint": "回去，向后，后背",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-022",
+      "en": "backache",
+      "zhHint": "背疼",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-023",
+      "en": "bad",
+      "zhHint": "坏的，有害的",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-024",
+      "en": "badly",
+      "zhHint": "糟糕地，严重地",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-025",
+      "en": "balcony",
+      "zhHint": "阳台",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-026",
+      "en": "bandage",
+      "zhHint": "绷带",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-027",
+      "en": "bank",
+      "zhHint": "银行",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-028",
+      "en": "basement",
+      "zhHint": "地下室",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-029",
+      "en": "bat",
+      "zhHint": "蝙蝠",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-030",
+      "en": "be called",
+      "zhHint": "叫作",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-031",
+      "en": "be good at",
+      "zhHint": "擅长",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-032",
+      "en": "be made from",
+      "zhHint": "由……制成",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-033",
+      "en": "bean",
+      "zhHint": "豆子",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-034",
+      "en": "bear",
+      "zhHint": "熊",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-035",
+      "en": "beard",
+      "zhHint": "胡须",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-036",
+      "en": "because",
+      "zhHint": "因为",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-037",
+      "en": "bedtime",
+      "zhHint": "睡觉时间",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-038",
+      "en": "before",
+      "zhHint": "在……之前",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-039",
+      "en": "below",
+      "zhHint": "在……下方",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-040",
+      "en": "between",
+      "zhHint": "在两者之间",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-041",
+      "en": "biggest",
+      "zhHint": "最大的",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-042",
+      "en": "Birmingham",
+      "zhHint": "伯明翰（地名）",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-043",
+      "en": "blanket",
+      "zhHint": "毯子",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-044",
+      "en": "block of flats",
+      "zhHint": "一栋公寓楼",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-045",
+      "en": "boots",
+      "zhHint": "靴子",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-046",
+      "en": "borrow",
+      "zhHint": "借来",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-047",
+      "en": "both",
+      "zhHint": "两者都，两个都",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-048",
+      "en": "bottle",
+      "zhHint": "瓶子",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-049",
+      "en": "bowl",
+      "zhHint": "碗",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-050",
+      "en": "brass",
+      "zhHint": "铜管乐器",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-051",
+      "en": "breathe",
+      "zhHint": "呼吸",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-052",
+      "en": "brick",
+      "zhHint": "砖",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-053",
+      "en": "bright",
+      "zhHint": "明亮的",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-054",
+      "en": "brush",
+      "zhHint": "刷子",
+      "fourSkills": false,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-055",
+      "en": "bus station",
+      "zhHint": "汽车站",
+      "fourSkills": true,
+      "printedPage": 80,
+      "pdfPage": 87
+    },
+    {
+      "id": "kb3-wl-056",
+      "en": "café",
+      "zhHint": "咖啡馆，小餐馆",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-057",
+      "en": "calf",
+      "zhHint": "小牛，牛犊",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-058",
+      "en": "call",
+      "zhHint": "叫，称呼",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-059",
+      "en": "camel",
+      "zhHint": "骆驼",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-060",
+      "en": "carbon dioxide",
+      "zhHint": "二氧化碳",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-061",
+      "en": "carry",
+      "zhHint": "搬运",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-062",
+      "en": "catch",
+      "zhHint": "赶上，抓住",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-063",
+      "en": "cave",
+      "zhHint": "洞穴",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-064",
+      "en": "CD",
+      "zhHint": "光盘",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-065",
+      "en": "centre",
+      "zhHint": "中心",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-066",
+      "en": "character",
+      "zhHint": "人物",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-067",
+      "en": "check",
+      "zhHint": "检查",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-068",
+      "en": "chess",
+      "zhHint": "国际象棋",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-069",
+      "en": "China",
+      "zhHint": "中国",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-070",
+      "en": "cinema",
+      "zhHint": "电影院",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-071",
+      "en": "city",
+      "zhHint": "城市",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-072",
+      "en": "classical",
+      "zhHint": "古典的",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-073",
+      "en": "clever",
+      "zhHint": "聪明的",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-074",
+      "en": "climb",
+      "zhHint": "攀登",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-075",
+      "en": "cloud",
+      "zhHint": "云",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-076",
+      "en": "cloudy",
+      "zhHint": "多云的",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-077",
+      "en": "coat",
+      "zhHint": "大衣，外套",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-078",
+      "en": "coin",
+      "zhHint": "硬币",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-079",
+      "en": "cold",
+      "zhHint": "冷的，感冒",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-080",
+      "en": "Come on!",
+      "zhHint": "快点！加油！来吧！",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-081",
+      "en": "comic",
+      "zhHint": "漫画",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-082",
+      "en": "composer",
+      "zhHint": "作曲家",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-083",
+      "en": "cook",
+      "zhHint": "做饭，烹饪",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-084",
+      "en": "correct",
+      "zhHint": "正确的",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-085",
+      "en": "cotton",
+      "zhHint": "棉花",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-086",
+      "en": "cough",
+      "zhHint": "咳嗽",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-087",
+      "en": "country",
+      "zhHint": "乡村",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-088",
+      "en": "countryside",
+      "zhHint": "农村，乡下",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-089",
+      "en": "cover",
+      "zhHint": "表面，封面",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-090",
+      "en": "cow",
+      "zhHint": "奶牛",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-091",
+      "en": "crossword",
+      "zhHint": "填字游戏",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-092",
+      "en": "cupboard",
+      "zhHint": "柜橱",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-093",
+      "en": "curly",
+      "zhHint": "（头发）卷曲的",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-094",
+      "en": "currency",
+      "zhHint": "流通货币",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-095",
+      "en": "cut",
+      "zhHint": "切，割",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-096",
+      "en": "Da Vinci",
+      "zhHint": "达·芬奇（意大利画家）",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-097",
+      "en": "Daisy",
+      "zhHint": "黛西（女名）",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-098",
+      "en": "dance",
+      "zhHint": "跳舞",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-099",
+      "en": "dancer",
+      "zhHint": "舞者",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-100",
+      "en": "dangerous",
+      "zhHint": "危险的",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-101",
+      "en": "daughter",
+      "zhHint": "女儿",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-102",
+      "en": "dear",
+      "zhHint": "亲爱的",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-103",
+      "en": "definition",
+      "zhHint": "定义",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-104",
+      "en": "degree",
+      "zhHint": "等级",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-105",
+      "en": "dentist",
+      "zhHint": "牙医",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-106",
+      "en": "description",
+      "zhHint": "描述，描写",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-107",
+      "en": "detective agency",
+      "zhHint": "侦探社",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-108",
+      "en": "difference",
+      "zhHint": "差别",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-109",
+      "en": "different",
+      "zhHint": "不同的",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-110",
+      "en": "difficult",
+      "zhHint": "困难的",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-111",
+      "en": "digital camera",
+      "zhHint": "数码相机",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-112",
+      "en": "digital radio",
+      "zhHint": "数码收音机",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-113",
+      "en": "doctor",
+      "zhHint": "医生",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-114",
+      "en": "dolphin",
+      "zhHint": "海豚",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-115",
+      "en": "down",
+      "zhHint": "向下，在……下方",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-116",
+      "en": "downstairs",
+      "zhHint": "在楼下，去楼下，楼下",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-117",
+      "en": "dream",
+      "zhHint": "梦，做梦",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-118",
+      "en": "drive",
+      "zhHint": "驾驶",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-119",
+      "en": "driver",
+      "zhHint": "司机，驾驶员",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-120",
+      "en": "drop",
+      "zhHint": "落下，放弃",
+      "fourSkills": true,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-121",
+      "en": "drums",
+      "zhHint": "鼓",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-122",
+      "en": "duck",
+      "zhHint": "鸭子",
+      "fourSkills": false,
+      "printedPage": 81,
+      "pdfPage": 88
+    },
+    {
+      "id": "kb3-wl-123",
+      "en": "during",
+      "zhHint": "在……期间",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-124",
+      "en": "earache",
+      "zhHint": "耳朵疼",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-125",
+      "en": "eighty",
+      "zhHint": "八十",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-126",
+      "en": "electric guitar",
+      "zhHint": "电吉他",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-127",
+      "en": "electronic piano",
+      "zhHint": "电子钢琴",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-128",
+      "en": "England",
+      "zhHint": "英格兰",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-129",
+      "en": "episode",
+      "zhHint": "片段，一集节目",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-130",
+      "en": "escalator",
+      "zhHint": "自动扶梯",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-131",
+      "en": "every",
+      "zhHint": "每一",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-132",
+      "en": "everywhere",
+      "zhHint": "到处",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-133",
+      "en": "exam",
+      "zhHint": "考试",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-134",
+      "en": "exercise",
+      "zhHint": "练习",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-135",
+      "en": "experiment",
+      "zhHint": "实验，试验",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-136",
+      "en": "explore",
+      "zhHint": "探索，探险",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-137",
+      "en": "fair",
+      "zhHint": "（头发）金色的",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-138",
+      "en": "farm",
+      "zhHint": "农场",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-139",
+      "en": "farmer",
+      "zhHint": "农民",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-140",
+      "en": "fast",
+      "zhHint": "快的，快速地",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-141",
+      "en": "fat",
+      "zhHint": "胖的，肥的",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-142",
+      "en": "field",
+      "zhHint": "田地，牧场，场地",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-143",
+      "en": "fifty",
+      "zhHint": "五十",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-144",
+      "en": "film",
+      "zhHint": "电影（美式说法 movie）",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-145",
+      "en": "fine",
+      "zhHint": "晴好的，好",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-146",
+      "en": "finish",
+      "zhHint": "完成",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-147",
+      "en": "fire engine",
+      "zhHint": "消防车",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-148",
+      "en": "fire hose",
+      "zhHint": "消防水带",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-149",
+      "en": "fire station",
+      "zhHint": "消防站",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-150",
+      "en": "firefighter",
+      "zhHint": "消防员",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-151",
+      "en": "first",
+      "zhHint": "第一的，首要的，首先",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-152",
+      "en": "fish",
+      "zhHint": "钓鱼",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-153",
+      "en": "fit",
+      "zhHint": "适合",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-154",
+      "en": "floor",
+      "zhHint": "楼层，地板",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-155",
+      "en": "flower",
+      "zhHint": "花",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-156",
+      "en": "flute",
+      "zhHint": "笛子",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-157",
+      "en": "fold",
+      "zhHint": "折叠，合拢",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-158",
+      "en": "folk",
+      "zhHint": "民间的",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-159",
+      "en": "forest",
+      "zhHint": "树林，森林",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-160",
+      "en": "forty",
+      "zhHint": "四十",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-161",
+      "en": "France",
+      "zhHint": "法国",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-162",
+      "en": "Fred",
+      "zhHint": "弗雷德（男名）",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-163",
+      "en": "free time",
+      "zhHint": "空闲时间",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-164",
+      "en": "fresh air",
+      "zhHint": "新鲜空气",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-165",
+      "en": "Friday",
+      "zhHint": "星期五",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-166",
+      "en": "fruit",
+      "zhHint": "水果",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-167",
+      "en": "fun",
+      "zhHint": "乐趣，好玩的事",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-168",
+      "en": "fur",
+      "zhHint": "皮毛",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-169",
+      "en": "get dressed",
+      "zhHint": "穿好衣服",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-170",
+      "en": "get undressed",
+      "zhHint": "脱下衣服",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-171",
+      "en": "get up",
+      "zhHint": "起床",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-172",
+      "en": "go shopping",
+      "zhHint": "去买东西",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-173",
+      "en": "go to bed",
+      "zhHint": "上床睡觉",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-174",
+      "en": "go to school",
+      "zhHint": "去上学",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-175",
+      "en": "Goya",
+      "zhHint": "戈雅（西班牙画家）",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-176",
+      "en": "grandchildren",
+      "zhHint": "孙子孙女，外孙外孙女",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-177",
+      "en": "granddaughter",
+      "zhHint": "孙女，外孙女",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-178",
+      "en": "grandparent",
+      "zhHint": "祖父母或外祖父母中的一位",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-179",
+      "en": "grandson",
+      "zhHint": "孙子，外孙",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-180",
+      "en": "grass",
+      "zhHint": "草，草地",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-181",
+      "en": "greenhouse",
+      "zhHint": "温室",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-182",
+      "en": "Greenland",
+      "zhHint": "格陵兰（地名）",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-183",
+      "en": "grown up",
+      "zhHint": "成年人",
+      "fourSkills": true,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-184",
+      "en": "habitat",
+      "zhHint": "动物栖息地，生活环境",
+      "fourSkills": false,
+      "printedPage": 82,
+      "pdfPage": 89
+    },
+    {
+      "id": "kb3-wl-185",
+      "en": "half",
+      "zhHint": "一半的，一半",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-186",
+      "en": "handcuffs",
+      "zhHint": "手铐",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-187",
+      "en": "Hands up!",
+      "zhHint": "举起手来！",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-188",
+      "en": "have a good time",
+      "zhHint": "玩得愉快",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-189",
+      "en": "headache",
+      "zhHint": "头疼",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-190",
+      "en": "headphone",
+      "zhHint": "头戴式耳机",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-191",
+      "en": "healthy",
+      "zhHint": "健康的",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-192",
+      "en": "home",
+      "zhHint": "家",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-193",
+      "en": "homework",
+      "zhHint": "家庭作业",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-194",
+      "en": "hop",
+      "zhHint": "蹦跳，单脚跳",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-195",
+      "en": "hospital",
+      "zhHint": "医院",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-196",
+      "en": "hot",
+      "zhHint": "热的",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-197",
+      "en": "houseboat",
+      "zhHint": "能住人的船",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-198",
+      "en": "how much",
+      "zhHint": "多少，多么",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-199",
+      "en": "how often",
+      "zhHint": "多久一次，多常",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-200",
+      "en": "hundred",
+      "zhHint": "百",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-201",
+      "en": "hungry",
+      "zhHint": "饿的",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-202",
+      "en": "hurt",
+      "zhHint": "伤害，疼痛",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-203",
+      "en": "idea",
+      "zhHint": "主意，意见",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-204",
+      "en": "in",
+      "zhHint": "在……（时间）之后或以内",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-205",
+      "en": "insect",
+      "zhHint": "昆虫",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-206",
+      "en": "inside",
+      "zhHint": "里面，在……里",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-207",
+      "en": "instrument",
+      "zhHint": "工具",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-208",
+      "en": "island",
+      "zhHint": "岛",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-209",
+      "en": "Jack",
+      "zhHint": "杰克（男名）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-210",
+      "en": "Jane",
+      "zhHint": "简（女名）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-211",
+      "en": "jazz",
+      "zhHint": "爵士乐",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-212",
+      "en": "Jim",
+      "zhHint": "吉姆（男名）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-213",
+      "en": "joke",
+      "zhHint": "笑话",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-214",
+      "en": "John",
+      "zhHint": "约翰（男名）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-215",
+      "en": "jungle",
+      "zhHint": "丛林，热带雨林",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-216",
+      "en": "kangaroo",
+      "zhHint": "袋鼠",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-217",
+      "en": "keyboard",
+      "zhHint": "键盘，键盘乐器",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-218",
+      "en": "kick",
+      "zhHint": "踢",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-219",
+      "en": "kilometre",
+      "zhHint": "千米",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-220",
+      "en": "kind",
+      "zhHint": "种类",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-221",
+      "en": "Korowai",
+      "zhHint": "毛利人的",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-222",
+      "en": "ladder",
+      "zhHint": "梯子",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-223",
+      "en": "lake",
+      "zhHint": "湖",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-224",
+      "en": "Lascaux cave",
+      "zhHint": "拉斯科洞穴（法国南部）",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-225",
+      "en": "last",
+      "zhHint": "最后的，最近的，最近一次",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-226",
+      "en": "laugh",
+      "zhHint": "笑，发出笑声",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-227",
+      "en": "leaf",
+      "zhHint": "叶子（复数 leaves）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-228",
+      "en": "leave a message",
+      "zhHint": "留言",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-229",
+      "en": "lentil",
+      "zhHint": "扁豆",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-230",
+      "en": "letter",
+      "zhHint": "字母，信件",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-231",
+      "en": "library",
+      "zhHint": "图书馆",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-232",
+      "en": "lid",
+      "zhHint": "盖子",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-233",
+      "en": "lift",
+      "zhHint": "电梯（美式说法 elevator）",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-234",
+      "en": "lion",
+      "zhHint": "狮子",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-235",
+      "en": "list",
+      "zhHint": "列表，清单",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-236",
+      "en": "look after",
+      "zhHint": "照顾，看管",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-237",
+      "en": "look for",
+      "zhHint": "寻找",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-238",
+      "en": "look like",
+      "zhHint": "看起来像……",
+      "fourSkills": false,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-239",
+      "en": "lose",
+      "zhHint": "遗失，输掉",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-240",
+      "en": "loud",
+      "zhHint": "响亮的，大声的",
+      "fourSkills": true,
+      "printedPage": 83,
+      "pdfPage": 90
+    },
+    {
+      "id": "kb3-wl-241",
+      "en": "Madagascar",
+      "zhHint": "马达加斯加",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-242",
+      "en": "magnifying glass",
+      "zhHint": "放大镜",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-243",
+      "en": "mammal",
+      "zhHint": "哺乳动物",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-244",
+      "en": "mango",
+      "zhHint": "芒果",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-245",
+      "en": "map",
+      "zhHint": "地图",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-246",
+      "en": "market",
+      "zhHint": "市场",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-247",
+      "en": "Mary",
+      "zhHint": "玛丽（人名）",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-248",
+      "en": "mask",
+      "zhHint": "面具",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-249",
+      "en": "material",
+      "zhHint": "材料",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-250",
+      "en": "matter",
+      "zhHint": "事情、麻烦",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-251",
+      "en": "meal",
+      "zhHint": "一餐、饭",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-252",
+      "en": "medicine",
+      "zhHint": "药",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-253",
+      "en": "menu",
+      "zhHint": "菜单",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-254",
+      "en": "metal",
+      "zhHint": "金属的",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-255",
+      "en": "Middle East",
+      "zhHint": "中东",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-256",
+      "en": "mine",
+      "zhHint": "我的",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-257",
+      "en": "minus",
+      "zhHint": "零下的、负的、减去",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-258",
+      "en": "mistake",
+      "zhHint": "错误",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-259",
+      "en": "Monday",
+      "zhHint": "星期一",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-260",
+      "en": "Monet",
+      "zhHint": "莫奈（法国画家）",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-261",
+      "en": "money",
+      "zhHint": "钱",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-262",
+      "en": "Mongolia",
+      "zhHint": "蒙古",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-263",
+      "en": "Mongolian",
+      "zhHint": "蒙古人、蒙古语、蒙古的",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-264",
+      "en": "more",
+      "zhHint": "更多的、更多",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-265",
+      "en": "more or less",
+      "zhHint": "或多或少",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-266",
+      "en": "mountain",
+      "zhHint": "山、山脉",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-267",
+      "en": "moustache",
+      "zhHint": "小胡子、八字胡",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-268",
+      "en": "move",
+      "zhHint": "移动、搬家",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-269",
+      "en": "much better",
+      "zhHint": "好多了",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-270",
+      "en": "must",
+      "zhHint": "必须、一定",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-271",
+      "en": "naughty",
+      "zhHint": "淘气的",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-272",
+      "en": "near",
+      "zhHint": "在附近、靠近",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-273",
+      "en": "need",
+      "zhHint": "需要",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-274",
+      "en": "never",
+      "zhHint": "从不",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-275",
+      "en": "ninety",
+      "zhHint": "九十",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-276",
+      "en": "note",
+      "zhHint": "笔记",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-277",
+      "en": "nurse",
+      "zhHint": "护士",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-278",
+      "en": "ocean",
+      "zhHint": "大洋",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-279",
+      "en": "odd one out",
+      "zhHint": "找出不同类的一项",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-280",
+      "en": "often",
+      "zhHint": "经常",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-281",
+      "en": "office",
+      "zhHint": "办公室",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-282",
+      "en": "on",
+      "zhHint": "在（某一天）",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-283",
+      "en": "only",
+      "zhHint": "仅仅、只",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-284",
+      "en": "opposite",
+      "zhHint": "在……对面",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-285",
+      "en": "orchestra",
+      "zhHint": "管弦乐队",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-286",
+      "en": "order",
+      "zhHint": "顺序、点餐",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-287",
+      "en": "other",
+      "zhHint": "其他的、另外的",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-288",
+      "en": "out",
+      "zhHint": "在外面、出去",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-289",
+      "en": "out of",
+      "zhHint": "出于……、在……外面",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-290",
+      "en": "outside",
+      "zhHint": "外面、在外面、在……外面",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-291",
+      "en": "oxygen",
+      "zhHint": "氧气",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-292",
+      "en": "packet",
+      "zhHint": "小纸盒、小包",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-293",
+      "en": "paintbrush",
+      "zhHint": "画笔",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-294",
+      "en": "panda",
+      "zhHint": "熊猫",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-295",
+      "en": "Papua New Guinea",
+      "zhHint": "巴布亚新几内亚",
+      "fourSkills": false,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-296",
+      "en": "parent",
+      "zhHint": "父亲或母亲",
+      "fourSkills": true,
+      "printedPage": 84,
+      "pdfPage": 91
+    },
+    {
+      "id": "kb3-wl-297",
+      "en": "park",
+      "zhHint": "停车",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-298",
+      "en": "parrot",
+      "zhHint": "鹦鹉",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-299",
+      "en": "part",
+      "zhHint": "部分",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-300",
+      "en": "party",
+      "zhHint": "聚会、晚会",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-301",
+      "en": "Paul",
+      "zhHint": "保罗（人名）",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-302",
+      "en": "pay",
+      "zhHint": "付钱、薪酬",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-303",
+      "en": "pea",
+      "zhHint": "豌豆",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-304",
+      "en": "pear",
+      "zhHint": "梨",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-305",
+      "en": "pedestrian crossing",
+      "zhHint": "人行横道",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-306",
+      "en": "pence",
+      "zhHint": "便士",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-307",
+      "en": "percussion",
+      "zhHint": "打击乐器",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-308",
+      "en": "permission",
+      "zhHint": "允许、许可",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-309",
+      "en": "pet",
+      "zhHint": "宠物",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-310",
+      "en": "Peter",
+      "zhHint": "彼得（人名）",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-311",
+      "en": "photograph",
+      "zhHint": "照片",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-312",
+      "en": "Picasso",
+      "zhHint": "毕加索（西班牙画家）",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-313",
+      "en": "picnic",
+      "zhHint": "野餐",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-314",
+      "en": "place",
+      "zhHint": "地点",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-315",
+      "en": "plant",
+      "zhHint": "植物",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-316",
+      "en": "playroom",
+      "zhHint": "游戏室",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-317",
+      "en": "police officer",
+      "zhHint": "警官",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-318",
+      "en": "pop",
+      "zhHint": "流行音乐",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-319",
+      "en": "portrait",
+      "zhHint": "画像",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-320",
+      "en": "pound",
+      "zhHint": "英镑",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-321",
+      "en": "present",
+      "zhHint": "礼物",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-322",
+      "en": "price",
+      "zhHint": "价格",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-323",
+      "en": "put on",
+      "zhHint": "穿上、戴上",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-324",
+      "en": "pyjamas",
+      "zhHint": "睡衣",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-325",
+      "en": "quick",
+      "zhHint": "快的",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-326",
+      "en": "quickly",
+      "zhHint": "快速地",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-327",
+      "en": "quiet",
+      "zhHint": "安静的",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-328",
+      "en": "radio",
+      "zhHint": "收音机、无线电",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-329",
+      "en": "rain",
+      "zhHint": "雨、下雨",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-330",
+      "en": "rainbow",
+      "zhHint": "彩虹",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-331",
+      "en": "really",
+      "zhHint": "真的、十分",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-332",
+      "en": "reflector",
+      "zhHint": "反光镜",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-333",
+      "en": "relax",
+      "zhHint": "放松",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-334",
+      "en": "remember",
+      "zhHint": "记住",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-335",
+      "en": "reporter",
+      "zhHint": "记者",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-336",
+      "en": "reptile",
+      "zhHint": "爬行动物",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-337",
+      "en": "rest",
+      "zhHint": "休息",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-338",
+      "en": "rice",
+      "zhHint": "米、米饭",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-339",
+      "en": "rich",
+      "zhHint": "富有的",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-340",
+      "en": "right",
+      "zhHint": "正确的",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-341",
+      "en": "ring-tailed lemur",
+      "zhHint": "环尾狐猴",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-342",
+      "en": "river",
+      "zhHint": "河流",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-343",
+      "en": "road",
+      "zhHint": "道路",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-344",
+      "en": "robber",
+      "zhHint": "抢劫犯",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-345",
+      "en": "rock",
+      "zhHint": "岩石",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-346",
+      "en": "roll",
+      "zhHint": "卷、滚动、一卷",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-347",
+      "en": "root",
+      "zhHint": "根",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-348",
+      "en": "routine",
+      "zhHint": "惯例、常规的",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-349",
+      "en": "safe",
+      "zhHint": "安全的",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-350",
+      "en": "Sally",
+      "zhHint": "萨莉（人名）",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-351",
+      "en": "same",
+      "zhHint": "相同的",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-352",
+      "en": "Saturday",
+      "zhHint": "星期六",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-353",
+      "en": "scarf",
+      "zhHint": "围巾",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-354",
+      "en": "science",
+      "zhHint": "科学",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-355",
+      "en": "seat belt",
+      "zhHint": "安全带",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-356",
+      "en": "See you!",
+      "zhHint": "再见！",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-357",
+      "en": "seed",
+      "zhHint": "种子",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-358",
+      "en": "self portrait",
+      "zhHint": "自画像",
+      "fourSkills": false,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-359",
+      "en": "seventy",
+      "zhHint": "七十",
+      "fourSkills": true,
+      "printedPage": 85,
+      "pdfPage": 92
+    },
+    {
+      "id": "kb3-wl-360",
+      "en": "shall",
+      "zhHint": "将、会",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-361",
+      "en": "shark",
+      "zhHint": "鲨鱼",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-362",
+      "en": "shelf",
+      "zhHint": "架子",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-363",
+      "en": "shop",
+      "zhHint": "商店",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-364",
+      "en": "shopping",
+      "zhHint": "购物",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-365",
+      "en": "shoulder",
+      "zhHint": "肩膀",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-366",
+      "en": "shower",
+      "zhHint": "淋浴",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-367",
+      "en": "silly",
+      "zhHint": "傻的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-368",
+      "en": "singer",
+      "zhHint": "歌手",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-369",
+      "en": "siren",
+      "zhHint": "警笛、警报声",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-370",
+      "en": "sixty",
+      "zhHint": "六十",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-371",
+      "en": "skin",
+      "zhHint": "皮肤",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-372",
+      "en": "skip",
+      "zhHint": "跳、跳绳、跳过",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-373",
+      "en": "snow",
+      "zhHint": "雪、下雪",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-374",
+      "en": "snowman",
+      "zhHint": "雪人",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-375",
+      "en": "sometimes",
+      "zhHint": "有时",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-376",
+      "en": "son",
+      "zhHint": "儿子",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-377",
+      "en": "sort",
+      "zhHint": "种类",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-378",
+      "en": "Spanish",
+      "zhHint": "西班牙人、西班牙语、西班牙的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-379",
+      "en": "special",
+      "zhHint": "特别的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-380",
+      "en": "sports centre",
+      "zhHint": "体育中心",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-381",
+      "en": "stair (s)",
+      "zhHint": "楼梯",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93,
+      "practiceForms": [
+        "stair",
+        "stairs"
+      ]
+    },
+    {
+      "id": "kb3-wl-382",
+      "en": "stapler",
+      "zhHint": "订书机",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-383",
+      "en": "star",
+      "zhHint": "星星",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-384",
+      "en": "stay",
+      "zhHint": "停留",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-385",
+      "en": "still life",
+      "zhHint": "静物",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-386",
+      "en": "stomach-ache",
+      "zhHint": "胃疼",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-387",
+      "en": "stop",
+      "zhHint": "停止",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-388",
+      "en": "straight",
+      "zhHint": "直的",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-389",
+      "en": "stress",
+      "zhHint": "重音",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-390",
+      "en": "strings",
+      "zhHint": "弦乐器声部",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-391",
+      "en": "strong",
+      "zhHint": "强壮的",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-392",
+      "en": "study",
+      "zhHint": "学习",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-393",
+      "en": "Sunday",
+      "zhHint": "星期日",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-394",
+      "en": "sunflower",
+      "zhHint": "向日葵",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-395",
+      "en": "sunlight",
+      "zhHint": "阳光",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-396",
+      "en": "sunny",
+      "zhHint": "晴朗的",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-397",
+      "en": "supermarket",
+      "zhHint": "超市",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-398",
+      "en": "surgery",
+      "zhHint": "外科手术",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-399",
+      "en": "sweater",
+      "zhHint": "毛衣、运动衫",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-400",
+      "en": "sweet",
+      "zhHint": "甜的、可爱的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-401",
+      "en": "swimming pool",
+      "zhHint": "游泳池",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-402",
+      "en": "syllable",
+      "zhHint": "音节",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-403",
+      "en": "take off",
+      "zhHint": "脱下（衣物）",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-404",
+      "en": "temperature",
+      "zhHint": "温度、发烧",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-405",
+      "en": "than",
+      "zhHint": "比",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-406",
+      "en": "then",
+      "zhHint": "那时、然后",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-407",
+      "en": "thermometer",
+      "zhHint": "温度计、体温计",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-408",
+      "en": "thief",
+      "zhHint": "小偷",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-409",
+      "en": "thin",
+      "zhHint": "瘦的",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-410",
+      "en": "thing",
+      "zhHint": "东西、事物",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-411",
+      "en": "think",
+      "zhHint": "想、认为",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-412",
+      "en": "thirsty",
+      "zhHint": "口渴的",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-413",
+      "en": "thirty",
+      "zhHint": "三十",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-414",
+      "en": "Thursday",
+      "zhHint": "星期四",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-415",
+      "en": "ticket",
+      "zhHint": "票",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-416",
+      "en": "tidy",
+      "zhHint": "整洁的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-417",
+      "en": "tired",
+      "zhHint": "累的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-418",
+      "en": "tissue",
+      "zhHint": "组织、纸巾",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-419",
+      "en": "tomorrow",
+      "zhHint": "明天",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-420",
+      "en": "tooth",
+      "zhHint": "牙齿（复数 teeth）",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-421",
+      "en": "toothache",
+      "zhHint": "牙痛",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-422",
+      "en": "top",
+      "zhHint": "顶部",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-423",
+      "en": "torch",
+      "zhHint": "手电筒、火把",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-424",
+      "en": "total",
+      "zhHint": "全部的、总的",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-425",
+      "en": "towel",
+      "zhHint": "毛巾",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-426",
+      "en": "town",
+      "zhHint": "城镇",
+      "fourSkills": true,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-427",
+      "en": "tractor",
+      "zhHint": "拖拉机",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-428",
+      "en": "trumpet",
+      "zhHint": "喇叭、小号",
+      "fourSkills": false,
+      "printedPage": 86,
+      "pdfPage": 93
+    },
+    {
+      "id": "kb3-wl-429",
+      "en": "Tuesday",
+      "zhHint": "星期二",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-430",
+      "en": "Turkish",
+      "zhHint": "土耳其语、土耳其人、土耳其的",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-431",
+      "en": "turn",
+      "zhHint": "轮次、转动",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-432",
+      "en": "twenty",
+      "zhHint": "二十",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-433",
+      "en": "type",
+      "zhHint": "类型",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-434",
+      "en": "umbrella",
+      "zhHint": "伞",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-435",
+      "en": "uncle",
+      "zhHint": "叔伯、舅舅、姑父或姨父",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-436",
+      "en": "uniform",
+      "zhHint": "制服",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-437",
+      "en": "untidy",
+      "zhHint": "不整洁的",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-438",
+      "en": "until",
+      "zhHint": "直到……",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-439",
+      "en": "upstairs",
+      "zhHint": "楼上、在楼上、往楼上",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-440",
+      "en": "use",
+      "zhHint": "用处、使用",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-441",
+      "en": "Van Gogh",
+      "zhHint": "梵高（荷兰画家）",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-442",
+      "en": "vegetable",
+      "zhHint": "蔬菜",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-443",
+      "en": "Vicky",
+      "zhHint": "维基（人名）",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-444",
+      "en": "Vigée Le Brun",
+      "zhHint": "维热·勒布伦（法国画家）",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-445",
+      "en": "village",
+      "zhHint": "村庄",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-446",
+      "en": "violin",
+      "zhHint": "小提琴",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-447",
+      "en": "volleyball",
+      "zhHint": "排球",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-448",
+      "en": "waiter",
+      "zhHint": "服务员",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-449",
+      "en": "wake up",
+      "zhHint": "醒来",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-450",
+      "en": "Wanted!",
+      "zhHint": "通缉！",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-451",
+      "en": "wash",
+      "zhHint": "清洗",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-452",
+      "en": "waterfall",
+      "zhHint": "瀑布",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-453",
+      "en": "weak",
+      "zhHint": "虚弱的",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-454",
+      "en": "weather",
+      "zhHint": "天气",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-455",
+      "en": "weatherman",
+      "zhHint": "天气预报员",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-456",
+      "en": "Wednesday",
+      "zhHint": "星期三",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-457",
+      "en": "week",
+      "zhHint": "一周",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-458",
+      "en": "weekend",
+      "zhHint": "周末",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-459",
+      "en": "well",
+      "zhHint": "健康的、好",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-460",
+      "en": "wet",
+      "zhHint": "湿的",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-461",
+      "en": "whale",
+      "zhHint": "鲸",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-462",
+      "en": "what about",
+      "zhHint": "关于……、……怎么样",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-463",
+      "en": "win",
+      "zhHint": "赢、获胜",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-464",
+      "en": "wind",
+      "zhHint": "风",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-465",
+      "en": "windy",
+      "zhHint": "多风的",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-466",
+      "en": "wood",
+      "zhHint": "木头",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-467",
+      "en": "woodwind",
+      "zhHint": "木管乐器",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-468",
+      "en": "wool",
+      "zhHint": "羊毛",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-469",
+      "en": "world",
+      "zhHint": "世界",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-470",
+      "en": "worse",
+      "zhHint": "更坏的、更差",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-471",
+      "en": "wrong",
+      "zhHint": "错误的",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-472",
+      "en": "yesterday",
+      "zhHint": "昨天",
+      "fourSkills": true,
+      "printedPage": 87,
+      "pdfPage": 94
+    },
+    {
+      "id": "kb3-wl-473",
+      "en": "yurt",
+      "zhHint": "蒙古包",
+      "fourSkills": false,
+      "printedPage": 87,
+      "pdfPage": 94
+    }
+  ],
+  "alphabeticalPacks": [
+    {
+      "id": "kb3-letter-a",
+      "letter": "A",
+      "entryIds": [
+        "kb3-wl-001",
+        "kb3-wl-002",
+        "kb3-wl-003",
+        "kb3-wl-004",
+        "kb3-wl-005",
+        "kb3-wl-006",
+        "kb3-wl-007",
+        "kb3-wl-008",
+        "kb3-wl-009",
+        "kb3-wl-010",
+        "kb3-wl-011",
+        "kb3-wl-012",
+        "kb3-wl-013",
+        "kb3-wl-014",
+        "kb3-wl-015",
+        "kb3-wl-016",
+        "kb3-wl-017",
+        "kb3-wl-018",
+        "kb3-wl-019",
+        "kb3-wl-020"
+      ]
+    },
+    {
+      "id": "kb3-letter-b",
+      "letter": "B",
+      "entryIds": [
+        "kb3-wl-021",
+        "kb3-wl-022",
+        "kb3-wl-023",
+        "kb3-wl-024",
+        "kb3-wl-025",
+        "kb3-wl-026",
+        "kb3-wl-027",
+        "kb3-wl-028",
+        "kb3-wl-029",
+        "kb3-wl-030",
+        "kb3-wl-031",
+        "kb3-wl-032",
+        "kb3-wl-033",
+        "kb3-wl-034",
+        "kb3-wl-035",
+        "kb3-wl-036",
+        "kb3-wl-037",
+        "kb3-wl-038",
+        "kb3-wl-039",
+        "kb3-wl-040",
+        "kb3-wl-041",
+        "kb3-wl-042",
+        "kb3-wl-043",
+        "kb3-wl-044",
+        "kb3-wl-045",
+        "kb3-wl-046",
+        "kb3-wl-047",
+        "kb3-wl-048",
+        "kb3-wl-049",
+        "kb3-wl-050",
+        "kb3-wl-051",
+        "kb3-wl-052",
+        "kb3-wl-053",
+        "kb3-wl-054",
+        "kb3-wl-055"
+      ]
+    },
+    {
+      "id": "kb3-letter-c",
+      "letter": "C",
+      "entryIds": [
+        "kb3-wl-056",
+        "kb3-wl-057",
+        "kb3-wl-058",
+        "kb3-wl-059",
+        "kb3-wl-060",
+        "kb3-wl-061",
+        "kb3-wl-062",
+        "kb3-wl-063",
+        "kb3-wl-064",
+        "kb3-wl-065",
+        "kb3-wl-066",
+        "kb3-wl-067",
+        "kb3-wl-068",
+        "kb3-wl-069",
+        "kb3-wl-070",
+        "kb3-wl-071",
+        "kb3-wl-072",
+        "kb3-wl-073",
+        "kb3-wl-074",
+        "kb3-wl-075",
+        "kb3-wl-076",
+        "kb3-wl-077",
+        "kb3-wl-078",
+        "kb3-wl-079",
+        "kb3-wl-080",
+        "kb3-wl-081",
+        "kb3-wl-082",
+        "kb3-wl-083",
+        "kb3-wl-084",
+        "kb3-wl-085",
+        "kb3-wl-086",
+        "kb3-wl-087",
+        "kb3-wl-088",
+        "kb3-wl-089",
+        "kb3-wl-090",
+        "kb3-wl-091",
+        "kb3-wl-092",
+        "kb3-wl-093",
+        "kb3-wl-094",
+        "kb3-wl-095"
+      ]
+    },
+    {
+      "id": "kb3-letter-d",
+      "letter": "D",
+      "entryIds": [
+        "kb3-wl-096",
+        "kb3-wl-097",
+        "kb3-wl-098",
+        "kb3-wl-099",
+        "kb3-wl-100",
+        "kb3-wl-101",
+        "kb3-wl-102",
+        "kb3-wl-103",
+        "kb3-wl-104",
+        "kb3-wl-105",
+        "kb3-wl-106",
+        "kb3-wl-107",
+        "kb3-wl-108",
+        "kb3-wl-109",
+        "kb3-wl-110",
+        "kb3-wl-111",
+        "kb3-wl-112",
+        "kb3-wl-113",
+        "kb3-wl-114",
+        "kb3-wl-115",
+        "kb3-wl-116",
+        "kb3-wl-117",
+        "kb3-wl-118",
+        "kb3-wl-119",
+        "kb3-wl-120",
+        "kb3-wl-121",
+        "kb3-wl-122",
+        "kb3-wl-123"
+      ]
+    },
+    {
+      "id": "kb3-letter-e",
+      "letter": "E",
+      "entryIds": [
+        "kb3-wl-124",
+        "kb3-wl-125",
+        "kb3-wl-126",
+        "kb3-wl-127",
+        "kb3-wl-128",
+        "kb3-wl-129",
+        "kb3-wl-130",
+        "kb3-wl-131",
+        "kb3-wl-132",
+        "kb3-wl-133",
+        "kb3-wl-134",
+        "kb3-wl-135",
+        "kb3-wl-136"
+      ]
+    },
+    {
+      "id": "kb3-letter-f",
+      "letter": "F",
+      "entryIds": [
+        "kb3-wl-137",
+        "kb3-wl-138",
+        "kb3-wl-139",
+        "kb3-wl-140",
+        "kb3-wl-141",
+        "kb3-wl-142",
+        "kb3-wl-143",
+        "kb3-wl-144",
+        "kb3-wl-145",
+        "kb3-wl-146",
+        "kb3-wl-147",
+        "kb3-wl-148",
+        "kb3-wl-149",
+        "kb3-wl-150",
+        "kb3-wl-151",
+        "kb3-wl-152",
+        "kb3-wl-153",
+        "kb3-wl-154",
+        "kb3-wl-155",
+        "kb3-wl-156",
+        "kb3-wl-157",
+        "kb3-wl-158",
+        "kb3-wl-159",
+        "kb3-wl-160",
+        "kb3-wl-161",
+        "kb3-wl-162",
+        "kb3-wl-163",
+        "kb3-wl-164",
+        "kb3-wl-165",
+        "kb3-wl-166",
+        "kb3-wl-167",
+        "kb3-wl-168"
+      ]
+    },
+    {
+      "id": "kb3-letter-g",
+      "letter": "G",
+      "entryIds": [
+        "kb3-wl-169",
+        "kb3-wl-170",
+        "kb3-wl-171",
+        "kb3-wl-172",
+        "kb3-wl-173",
+        "kb3-wl-174",
+        "kb3-wl-175",
+        "kb3-wl-176",
+        "kb3-wl-177",
+        "kb3-wl-178",
+        "kb3-wl-179",
+        "kb3-wl-180",
+        "kb3-wl-181",
+        "kb3-wl-182",
+        "kb3-wl-183"
+      ]
+    },
+    {
+      "id": "kb3-letter-h",
+      "letter": "H",
+      "entryIds": [
+        "kb3-wl-184",
+        "kb3-wl-185",
+        "kb3-wl-186",
+        "kb3-wl-187",
+        "kb3-wl-188",
+        "kb3-wl-189",
+        "kb3-wl-190",
+        "kb3-wl-191",
+        "kb3-wl-192",
+        "kb3-wl-193",
+        "kb3-wl-194",
+        "kb3-wl-195",
+        "kb3-wl-196",
+        "kb3-wl-197",
+        "kb3-wl-198",
+        "kb3-wl-199",
+        "kb3-wl-200",
+        "kb3-wl-201",
+        "kb3-wl-202"
+      ]
+    },
+    {
+      "id": "kb3-letter-i",
+      "letter": "I",
+      "entryIds": [
+        "kb3-wl-203",
+        "kb3-wl-204",
+        "kb3-wl-205",
+        "kb3-wl-206",
+        "kb3-wl-207",
+        "kb3-wl-208"
+      ]
+    },
+    {
+      "id": "kb3-letter-j",
+      "letter": "J",
+      "entryIds": [
+        "kb3-wl-209",
+        "kb3-wl-210",
+        "kb3-wl-211",
+        "kb3-wl-212",
+        "kb3-wl-213",
+        "kb3-wl-214",
+        "kb3-wl-215"
+      ]
+    },
+    {
+      "id": "kb3-letter-k",
+      "letter": "K",
+      "entryIds": [
+        "kb3-wl-216",
+        "kb3-wl-217",
+        "kb3-wl-218",
+        "kb3-wl-219",
+        "kb3-wl-220",
+        "kb3-wl-221"
+      ]
+    },
+    {
+      "id": "kb3-letter-l",
+      "letter": "L",
+      "entryIds": [
+        "kb3-wl-222",
+        "kb3-wl-223",
+        "kb3-wl-224",
+        "kb3-wl-225",
+        "kb3-wl-226",
+        "kb3-wl-227",
+        "kb3-wl-228",
+        "kb3-wl-229",
+        "kb3-wl-230",
+        "kb3-wl-231",
+        "kb3-wl-232",
+        "kb3-wl-233",
+        "kb3-wl-234",
+        "kb3-wl-235",
+        "kb3-wl-236",
+        "kb3-wl-237",
+        "kb3-wl-238",
+        "kb3-wl-239",
+        "kb3-wl-240"
+      ]
+    },
+    {
+      "id": "kb3-letter-m",
+      "letter": "M",
+      "entryIds": [
+        "kb3-wl-241",
+        "kb3-wl-242",
+        "kb3-wl-243",
+        "kb3-wl-244",
+        "kb3-wl-245",
+        "kb3-wl-246",
+        "kb3-wl-247",
+        "kb3-wl-248",
+        "kb3-wl-249",
+        "kb3-wl-250",
+        "kb3-wl-251",
+        "kb3-wl-252",
+        "kb3-wl-253",
+        "kb3-wl-254",
+        "kb3-wl-255",
+        "kb3-wl-256",
+        "kb3-wl-257",
+        "kb3-wl-258",
+        "kb3-wl-259",
+        "kb3-wl-260",
+        "kb3-wl-261",
+        "kb3-wl-262",
+        "kb3-wl-263",
+        "kb3-wl-264",
+        "kb3-wl-265",
+        "kb3-wl-266",
+        "kb3-wl-267",
+        "kb3-wl-268",
+        "kb3-wl-269",
+        "kb3-wl-270"
+      ]
+    },
+    {
+      "id": "kb3-letter-n",
+      "letter": "N",
+      "entryIds": [
+        "kb3-wl-271",
+        "kb3-wl-272",
+        "kb3-wl-273",
+        "kb3-wl-274",
+        "kb3-wl-275",
+        "kb3-wl-276",
+        "kb3-wl-277"
+      ]
+    },
+    {
+      "id": "kb3-letter-o",
+      "letter": "O",
+      "entryIds": [
+        "kb3-wl-278",
+        "kb3-wl-279",
+        "kb3-wl-280",
+        "kb3-wl-281",
+        "kb3-wl-282",
+        "kb3-wl-283",
+        "kb3-wl-284",
+        "kb3-wl-285",
+        "kb3-wl-286",
+        "kb3-wl-287",
+        "kb3-wl-288",
+        "kb3-wl-289",
+        "kb3-wl-290",
+        "kb3-wl-291"
+      ]
+    },
+    {
+      "id": "kb3-letter-p",
+      "letter": "P",
+      "entryIds": [
+        "kb3-wl-292",
+        "kb3-wl-293",
+        "kb3-wl-294",
+        "kb3-wl-295",
+        "kb3-wl-296",
+        "kb3-wl-297",
+        "kb3-wl-298",
+        "kb3-wl-299",
+        "kb3-wl-300",
+        "kb3-wl-301",
+        "kb3-wl-302",
+        "kb3-wl-303",
+        "kb3-wl-304",
+        "kb3-wl-305",
+        "kb3-wl-306",
+        "kb3-wl-307",
+        "kb3-wl-308",
+        "kb3-wl-309",
+        "kb3-wl-310",
+        "kb3-wl-311",
+        "kb3-wl-312",
+        "kb3-wl-313",
+        "kb3-wl-314",
+        "kb3-wl-315",
+        "kb3-wl-316",
+        "kb3-wl-317",
+        "kb3-wl-318",
+        "kb3-wl-319",
+        "kb3-wl-320",
+        "kb3-wl-321",
+        "kb3-wl-322",
+        "kb3-wl-323",
+        "kb3-wl-324"
+      ]
+    },
+    {
+      "id": "kb3-letter-q",
+      "letter": "Q",
+      "entryIds": [
+        "kb3-wl-325",
+        "kb3-wl-326",
+        "kb3-wl-327"
+      ]
+    },
+    {
+      "id": "kb3-letter-r",
+      "letter": "R",
+      "entryIds": [
+        "kb3-wl-328",
+        "kb3-wl-329",
+        "kb3-wl-330",
+        "kb3-wl-331",
+        "kb3-wl-332",
+        "kb3-wl-333",
+        "kb3-wl-334",
+        "kb3-wl-335",
+        "kb3-wl-336",
+        "kb3-wl-337",
+        "kb3-wl-338",
+        "kb3-wl-339",
+        "kb3-wl-340",
+        "kb3-wl-341",
+        "kb3-wl-342",
+        "kb3-wl-343",
+        "kb3-wl-344",
+        "kb3-wl-345",
+        "kb3-wl-346",
+        "kb3-wl-347",
+        "kb3-wl-348"
+      ]
+    },
+    {
+      "id": "kb3-letter-s",
+      "letter": "S",
+      "entryIds": [
+        "kb3-wl-349",
+        "kb3-wl-350",
+        "kb3-wl-351",
+        "kb3-wl-352",
+        "kb3-wl-353",
+        "kb3-wl-354",
+        "kb3-wl-355",
+        "kb3-wl-356",
+        "kb3-wl-357",
+        "kb3-wl-358",
+        "kb3-wl-359",
+        "kb3-wl-360",
+        "kb3-wl-361",
+        "kb3-wl-362",
+        "kb3-wl-363",
+        "kb3-wl-364",
+        "kb3-wl-365",
+        "kb3-wl-366",
+        "kb3-wl-367",
+        "kb3-wl-368",
+        "kb3-wl-369",
+        "kb3-wl-370",
+        "kb3-wl-371",
+        "kb3-wl-372",
+        "kb3-wl-373",
+        "kb3-wl-374",
+        "kb3-wl-375",
+        "kb3-wl-376",
+        "kb3-wl-377",
+        "kb3-wl-378",
+        "kb3-wl-379",
+        "kb3-wl-380",
+        "kb3-wl-381",
+        "kb3-wl-382",
+        "kb3-wl-383",
+        "kb3-wl-384",
+        "kb3-wl-385",
+        "kb3-wl-386",
+        "kb3-wl-387",
+        "kb3-wl-388",
+        "kb3-wl-389",
+        "kb3-wl-390",
+        "kb3-wl-391",
+        "kb3-wl-392",
+        "kb3-wl-393",
+        "kb3-wl-394",
+        "kb3-wl-395",
+        "kb3-wl-396",
+        "kb3-wl-397",
+        "kb3-wl-398",
+        "kb3-wl-399",
+        "kb3-wl-400",
+        "kb3-wl-401",
+        "kb3-wl-402"
+      ]
+    },
+    {
+      "id": "kb3-letter-t",
+      "letter": "T",
+      "entryIds": [
+        "kb3-wl-403",
+        "kb3-wl-404",
+        "kb3-wl-405",
+        "kb3-wl-406",
+        "kb3-wl-407",
+        "kb3-wl-408",
+        "kb3-wl-409",
+        "kb3-wl-410",
+        "kb3-wl-411",
+        "kb3-wl-412",
+        "kb3-wl-413",
+        "kb3-wl-414",
+        "kb3-wl-415",
+        "kb3-wl-416",
+        "kb3-wl-417",
+        "kb3-wl-418",
+        "kb3-wl-419",
+        "kb3-wl-420",
+        "kb3-wl-421",
+        "kb3-wl-422",
+        "kb3-wl-423",
+        "kb3-wl-424",
+        "kb3-wl-425",
+        "kb3-wl-426",
+        "kb3-wl-427",
+        "kb3-wl-428",
+        "kb3-wl-429",
+        "kb3-wl-430",
+        "kb3-wl-431",
+        "kb3-wl-432",
+        "kb3-wl-433"
+      ]
+    },
+    {
+      "id": "kb3-letter-u",
+      "letter": "U",
+      "entryIds": [
+        "kb3-wl-434",
+        "kb3-wl-435",
+        "kb3-wl-436",
+        "kb3-wl-437",
+        "kb3-wl-438",
+        "kb3-wl-439",
+        "kb3-wl-440"
+      ]
+    },
+    {
+      "id": "kb3-letter-v",
+      "letter": "V",
+      "entryIds": [
+        "kb3-wl-441",
+        "kb3-wl-442",
+        "kb3-wl-443",
+        "kb3-wl-444",
+        "kb3-wl-445",
+        "kb3-wl-446",
+        "kb3-wl-447"
+      ]
+    },
+    {
+      "id": "kb3-letter-w",
+      "letter": "W",
+      "entryIds": [
+        "kb3-wl-448",
+        "kb3-wl-449",
+        "kb3-wl-450",
+        "kb3-wl-451",
+        "kb3-wl-452",
+        "kb3-wl-453",
+        "kb3-wl-454",
+        "kb3-wl-455",
+        "kb3-wl-456",
+        "kb3-wl-457",
+        "kb3-wl-458",
+        "kb3-wl-459",
+        "kb3-wl-460",
+        "kb3-wl-461",
+        "kb3-wl-462",
+        "kb3-wl-463",
+        "kb3-wl-464",
+        "kb3-wl-465",
+        "kb3-wl-466",
+        "kb3-wl-467",
+        "kb3-wl-468",
+        "kb3-wl-469",
+        "kb3-wl-470",
+        "kb3-wl-471"
+      ]
+    },
+    {
+      "id": "kb3-letter-y",
+      "letter": "Y",
+      "entryIds": [
+        "kb3-wl-472",
+        "kb3-wl-473"
+      ]
+    }
+  ],
+  "unitPacks": [
+    {
+      "id": "kb3-hello",
+      "unit": 0,
+      "title": "Hello!",
+      "theme": "认识朋友与玩具",
+      "printedPageRange": [
+        2,
+        7
+      ],
+      "entries": [
+        {
+          "id": "kb3-hello-comic",
+          "en": "comic",
+          "zhHint": "漫画",
+          "printedPage": 2,
+          "pdfPage": 9,
+          "glossaryEntryIds": [
+            "kb3-wl-081"
+          ]
+        },
+        {
+          "id": "kb3-hello-computer",
+          "en": "computer",
+          "zhHint": "电脑",
+          "printedPage": 2,
+          "pdfPage": 9,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-bike",
+          "en": "bike",
+          "zhHint": "自行车",
+          "printedPage": 5,
+          "pdfPage": 12,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-kite",
+          "en": "kite",
+          "zhHint": "风筝",
+          "printedPage": 5,
+          "pdfPage": 12,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-doll",
+          "en": "doll",
+          "zhHint": "玩具娃娃",
+          "printedPage": 5,
+          "pdfPage": 12,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-robot",
+          "en": "robot",
+          "zhHint": "机器人",
+          "printedPage": 5,
+          "pdfPage": 12,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-ball",
+          "en": "ball",
+          "zhHint": "球",
+          "printedPage": 5,
+          "pdfPage": 12,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-hello-playground",
+          "en": "playground",
+          "zhHint": "操场",
+          "printedPage": 4,
+          "pdfPage": 11,
+          "glossaryEntryIds": []
+        }
+      ]
+    },
+    {
+      "id": "kb3-u1",
+      "unit": 1,
+      "title": "Family matters",
+      "theme": "家人与性格",
+      "printedPageRange": [
+        8,
+        15
+      ],
+      "entries": [
+        {
+          "id": "kb3-u1-aunt",
+          "en": "aunt",
+          "zhHint": "姑妈、姨妈、伯母、婶母",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-020"
+          ]
+        },
+        {
+          "id": "kb3-u1-daughter",
+          "en": "daughter",
+          "zhHint": "女儿",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-101"
+          ]
+        },
+        {
+          "id": "kb3-u1-granddaughter",
+          "en": "granddaughter",
+          "zhHint": "孙女、外孙女",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-177"
+          ]
+        },
+        {
+          "id": "kb3-u1-grandson",
+          "en": "grandson",
+          "zhHint": "孙子、外孙",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-179"
+          ]
+        },
+        {
+          "id": "kb3-u1-grandparents",
+          "en": "grandparents",
+          "zhHint": "祖父母、外祖父母",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-u1-son",
+          "en": "son",
+          "zhHint": "儿子",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-376"
+          ]
+        },
+        {
+          "id": "kb3-u1-uncle",
+          "en": "uncle",
+          "zhHint": "叔伯、舅舅、姑父、姨父",
+          "printedPage": 8,
+          "pdfPage": 15,
+          "glossaryEntryIds": [
+            "kb3-wl-435"
+          ]
+        },
+        {
+          "id": "kb3-u1-quiet",
+          "en": "quiet",
+          "zhHint": "安静的",
+          "printedPage": 10,
+          "pdfPage": 17,
+          "glossaryEntryIds": [
+            "kb3-wl-327"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u2",
+      "unit": 2,
+      "title": "Home sweet home",
+      "theme": "房屋与居住环境",
+      "printedPageRange": [
+        16,
+        23
+      ],
+      "entries": [
+        {
+          "id": "kb3-u2-stairs",
+          "en": "stairs",
+          "zhHint": "楼梯",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": [
+            "kb3-wl-381"
+          ]
+        },
+        {
+          "id": "kb3-u2-lift",
+          "en": "lift",
+          "zhHint": "电梯",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": [
+            "kb3-wl-233"
+          ]
+        },
+        {
+          "id": "kb3-u2-balcony",
+          "en": "balcony",
+          "zhHint": "阳台",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": [
+            "kb3-wl-025"
+          ]
+        },
+        {
+          "id": "kb3-u2-basement",
+          "en": "basement",
+          "zhHint": "地下室",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": [
+            "kb3-wl-028"
+          ]
+        },
+        {
+          "id": "kb3-u2-flat",
+          "en": "flat",
+          "zhHint": "公寓、一套住房",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-u2-village",
+          "en": "village",
+          "zhHint": "村庄",
+          "printedPage": 16,
+          "pdfPage": 23,
+          "glossaryEntryIds": [
+            "kb3-wl-445"
+          ]
+        },
+        {
+          "id": "kb3-u2-upstairs",
+          "en": "upstairs",
+          "zhHint": "在楼上、往楼上",
+          "printedPage": 18,
+          "pdfPage": 25,
+          "glossaryEntryIds": [
+            "kb3-wl-439"
+          ]
+        },
+        {
+          "id": "kb3-u2-downstairs",
+          "en": "downstairs",
+          "zhHint": "在楼下、往楼下",
+          "printedPage": 18,
+          "pdfPage": 25,
+          "glossaryEntryIds": [
+            "kb3-wl-116"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u3",
+      "unit": 3,
+      "title": "A day in the life",
+      "theme": "日常作息",
+      "printedPageRange": [
+        26,
+        33
+      ],
+      "entries": [
+        {
+          "id": "kb3-u3-get-dressed",
+          "en": "get dressed",
+          "zhHint": "穿好衣服",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-169"
+          ]
+        },
+        {
+          "id": "kb3-u3-get-undressed",
+          "en": "get undressed",
+          "zhHint": "脱去衣服",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-170"
+          ]
+        },
+        {
+          "id": "kb3-u3-get-up",
+          "en": "get up",
+          "zhHint": "起床",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-171"
+          ]
+        },
+        {
+          "id": "kb3-u3-go-to-bed",
+          "en": "go to bed",
+          "zhHint": "上床睡觉",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-173"
+          ]
+        },
+        {
+          "id": "kb3-u3-have-a-shower",
+          "en": "have a shower",
+          "zhHint": "淋浴",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": []
+        },
+        {
+          "id": "kb3-u3-put-on",
+          "en": "put on",
+          "zhHint": "穿上、戴上",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-323"
+          ]
+        },
+        {
+          "id": "kb3-u3-wake-up",
+          "en": "wake up",
+          "zhHint": "醒来",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-449"
+          ]
+        },
+        {
+          "id": "kb3-u3-take-off",
+          "en": "take off",
+          "zhHint": "脱下",
+          "printedPage": 26,
+          "pdfPage": 33,
+          "glossaryEntryIds": [
+            "kb3-wl-403"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u4",
+      "unit": 4,
+      "title": "In the city",
+      "theme": "城市地点",
+      "printedPageRange": [
+        34,
+        41
+      ],
+      "entries": [
+        {
+          "id": "kb3-u4-bank",
+          "en": "bank",
+          "zhHint": "银行",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-027"
+          ]
+        },
+        {
+          "id": "kb3-u4-bus-station",
+          "en": "bus station",
+          "zhHint": "公共汽车站",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-055"
+          ]
+        },
+        {
+          "id": "kb3-u4-cinema",
+          "en": "cinema",
+          "zhHint": "电影院",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-070"
+          ]
+        },
+        {
+          "id": "kb3-u4-sports-centre",
+          "en": "sports centre",
+          "zhHint": "体育中心",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-380"
+          ]
+        },
+        {
+          "id": "kb3-u4-supermarket",
+          "en": "supermarket",
+          "zhHint": "超市",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-397"
+          ]
+        },
+        {
+          "id": "kb3-u4-swimming-pool",
+          "en": "swimming pool",
+          "zhHint": "游泳池",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-401"
+          ]
+        },
+        {
+          "id": "kb3-u4-library",
+          "en": "library",
+          "zhHint": "图书馆",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-231"
+          ]
+        },
+        {
+          "id": "kb3-u4-market",
+          "en": "market",
+          "zhHint": "市场",
+          "printedPage": 34,
+          "pdfPage": 41,
+          "glossaryEntryIds": [
+            "kb3-wl-246"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u5",
+      "unit": 5,
+      "title": "Fit and well",
+      "theme": "身体不适与健康",
+      "printedPageRange": [
+        44,
+        51
+      ],
+      "entries": [
+        {
+          "id": "kb3-u5-temperature",
+          "en": "temperature",
+          "zhHint": "体温（发烧用 have a temperature）",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-404"
+          ]
+        },
+        {
+          "id": "kb3-u5-cold",
+          "en": "cold",
+          "zhHint": "感冒、冷的",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-079"
+          ]
+        },
+        {
+          "id": "kb3-u5-cough",
+          "en": "cough",
+          "zhHint": "咳嗽",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-086"
+          ]
+        },
+        {
+          "id": "kb3-u5-headache",
+          "en": "headache",
+          "zhHint": "头痛",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-189"
+          ]
+        },
+        {
+          "id": "kb3-u5-toothache",
+          "en": "toothache",
+          "zhHint": "牙痛",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-421"
+          ]
+        },
+        {
+          "id": "kb3-u5-stomach-ache",
+          "en": "stomach-ache",
+          "zhHint": "胃痛、肚子痛",
+          "printedPage": 44,
+          "pdfPage": 51,
+          "glossaryEntryIds": [
+            "kb3-wl-386"
+          ]
+        },
+        {
+          "id": "kb3-u5-doctor",
+          "en": "doctor",
+          "zhHint": "医生",
+          "printedPage": 48,
+          "pdfPage": 55,
+          "glossaryEntryIds": [
+            "kb3-wl-113"
+          ]
+        },
+        {
+          "id": "kb3-u5-hospital",
+          "en": "hospital",
+          "zhHint": "医院",
+          "printedPage": 48,
+          "pdfPage": 55,
+          "glossaryEntryIds": [
+            "kb3-wl-195"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u6",
+      "unit": 6,
+      "title": "A day in the country",
+      "theme": "乡村与自然",
+      "printedPageRange": [
+        52,
+        59
+      ],
+      "entries": [
+        {
+          "id": "kb3-u6-grass",
+          "en": "grass",
+          "zhHint": "草",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-180"
+          ]
+        },
+        {
+          "id": "kb3-u6-picnic",
+          "en": "picnic",
+          "zhHint": "野餐",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-313"
+          ]
+        },
+        {
+          "id": "kb3-u6-leaf",
+          "en": "leaf",
+          "zhHint": "叶子",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-227"
+          ]
+        },
+        {
+          "id": "kb3-u6-plant",
+          "en": "plant",
+          "zhHint": "植物",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-315"
+          ]
+        },
+        {
+          "id": "kb3-u6-river",
+          "en": "river",
+          "zhHint": "河流",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-342"
+          ]
+        },
+        {
+          "id": "kb3-u6-lake",
+          "en": "lake",
+          "zhHint": "湖",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-223"
+          ]
+        },
+        {
+          "id": "kb3-u6-field",
+          "en": "field",
+          "zhHint": "田野、田地",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-142"
+          ]
+        },
+        {
+          "id": "kb3-u6-forest",
+          "en": "forest",
+          "zhHint": "森林",
+          "printedPage": 52,
+          "pdfPage": 59,
+          "glossaryEntryIds": [
+            "kb3-wl-159"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u7",
+      "unit": 7,
+      "title": "World of animals",
+      "theme": "动物世界",
+      "printedPageRange": [
+        62,
+        69
+      ],
+      "entries": [
+        {
+          "id": "kb3-u7-bear",
+          "en": "bear",
+          "zhHint": "熊",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-034"
+          ]
+        },
+        {
+          "id": "kb3-u7-whale",
+          "en": "whale",
+          "zhHint": "鲸",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-461"
+          ]
+        },
+        {
+          "id": "kb3-u7-panda",
+          "en": "panda",
+          "zhHint": "熊猫",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-294"
+          ]
+        },
+        {
+          "id": "kb3-u7-bat",
+          "en": "bat",
+          "zhHint": "蝙蝠",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-029"
+          ]
+        },
+        {
+          "id": "kb3-u7-lion",
+          "en": "lion",
+          "zhHint": "狮子",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-234"
+          ]
+        },
+        {
+          "id": "kb3-u7-kangaroo",
+          "en": "kangaroo",
+          "zhHint": "袋鼠",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-216"
+          ]
+        },
+        {
+          "id": "kb3-u7-shark",
+          "en": "shark",
+          "zhHint": "鲨鱼",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-361"
+          ]
+        },
+        {
+          "id": "kb3-u7-dolphin",
+          "en": "dolphin",
+          "zhHint": "海豚",
+          "printedPage": 62,
+          "pdfPage": 69,
+          "glossaryEntryIds": [
+            "kb3-wl-114"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kb3-u8",
+      "unit": 8,
+      "title": "Weather report",
+      "theme": "天气与昨天今天",
+      "printedPageRange": [
+        70,
+        77
+      ],
+      "entries": [
+        {
+          "id": "kb3-u8-windy",
+          "en": "windy",
+          "zhHint": "有风的",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-465"
+          ]
+        },
+        {
+          "id": "kb3-u8-wet",
+          "en": "wet",
+          "zhHint": "湿的、潮湿的",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-460"
+          ]
+        },
+        {
+          "id": "kb3-u8-sunny",
+          "en": "sunny",
+          "zhHint": "晴朗的",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-396"
+          ]
+        },
+        {
+          "id": "kb3-u8-cloudy",
+          "en": "cloudy",
+          "zhHint": "多云的",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-076"
+          ]
+        },
+        {
+          "id": "kb3-u8-rainbow",
+          "en": "rainbow",
+          "zhHint": "彩虹",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-330"
+          ]
+        },
+        {
+          "id": "kb3-u8-snow",
+          "en": "snow",
+          "zhHint": "雪",
+          "printedPage": 70,
+          "pdfPage": 77,
+          "glossaryEntryIds": [
+            "kb3-wl-373"
+          ]
+        },
+        {
+          "id": "kb3-u8-yesterday",
+          "en": "yesterday",
+          "zhHint": "昨天",
+          "printedPage": 72,
+          "pdfPage": 79,
+          "glossaryEntryIds": [
+            "kb3-wl-472"
+          ]
+        },
+        {
+          "id": "kb3-u8-today",
+          "en": "today",
+          "zhHint": "今天",
+          "printedPage": 72,
+          "pdfPage": 79,
+          "glossaryEntryIds": []
+        }
+      ]
+    }
+  ]
+}

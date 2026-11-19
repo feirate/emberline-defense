@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "courses": [
+    {
+      "id": "kb3-emberline-v1",
+      "title": "KB3 · 余火主线",
+      "subtitle": "一路有灯 · 首章",
+      "station": "联络货站",
+      "stages": [
+        {
+          "id": "kb3-emberline-yard-v1",
+          "title": "联络货站",
+          "levelId": "formal-yard-v1",
+          "wordCount": 20,
+          "story": {
+            "opening": "周站长：后面的车等这盏灯。车长，守住货站！",
+            "victory": "联络货站的灯亮了。接应列车，沿亮灯的路走。"
+          },
+          "wordIds": [
+            "kb3-u4-bank", "kb3-u4-supermarket", "kb3-u4-bus-station", "kb3-u4-cinema",
+            "kb3-u4-library", "kb3-u4-market", "kb3-u4-sports-centre", "kb3-u4-swimming-pool",
+            "kb3-u2-stairs", "kb3-u2-lift", "kb3-u2-balcony", "kb3-u2-basement",
+            "kb3-u2-flat", "kb3-u2-village", "kb3-u2-upstairs", "kb3-u2-downstairs",
+            "kb3-u1-aunt", "kb3-u1-daughter", "kb3-u1-grandparents", "kb3-u1-son"
+          ]
+        },
+        {
+          "id": "kb3-emberline-bridge-v1",
+          "title": "断桥站",
+          "levelId": "formal-bridge-v1",
+          "wordCount": 20,
+          "story": {
+            "opening": "周站长：两端桥口都有动静。守住桥灯，给接应车指路！",
+            "victory": "小禾：对岸回了三声！看，接应列车正在过桥。"
+          },
+          "wordIds": [
+            "kb3-u6-river", "kb3-u6-lake", "kb3-u6-grass", "kb3-u6-leaf", "kb3-u6-forest",
+            "kb3-u6-field", "kb3-u6-plant", "kb3-u6-picnic",
+            "kb3-u3-get-up", "kb3-u3-wake-up", "kb3-u3-get-dressed", "kb3-u3-put-on",
+            "kb3-u3-take-off", "kb3-u3-get-undressed", "kb3-u3-have-a-shower", "kb3-u3-go-to-bed",
+            "kb3-u5-hospital", "kb3-u5-doctor", "kb3-u5-cough", "kb3-u5-headache"
+          ]
+        }
+      ]
+    }
+  ]
+}

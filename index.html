@@ -1,0 +1,204 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#141719">
+  <meta name="description" content="驾驶废土列车，打怪攒星、加挂车厢，守住避难货站。">
+  <title>余火列车 · 战斗试玩</title>
+  <link rel="stylesheet" href="./game.css">
+  <script type="module" src="./game.mjs"></script>
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <span class="logo-mark" aria-hidden="true">◆</span>
+      <div><h1>余火列车</h1><p>EMBERLINE</p></div>
+    </div>
+    <button type="button" id="map-button" aria-haspopup="dialog" aria-controls="course-map">课程地图</button>
+    <div class="top-actions">
+      <button type="button" id="captain-button">车长档案</button>
+      <button type="button" id="sound" aria-pressed="true">声音开</button>
+      <button type="button" id="pause" disabled>暂停</button>
+      <button type="button" id="restart" hidden>重新开始</button>
+    </div>
+  </header>
+
+  <main class="game">
+    <section class="battle" aria-label="避难货站战场">
+      <div class="battle-hud">
+        <div class="site-name"><span class="beacon" aria-hidden="true"></span><h2>避难货站</h2></div>
+        <div class="wave"><span>敌潮</span> <strong id="wave">1</strong><span id="wave-total"> / 100</span></div>
+        <div class="defense">
+          <span class="armor-caption" aria-hidden="true">护甲</span>
+          <div class="armor" id="armor" role="img" aria-label="避难所护甲 3 格">
+            <i></i><i></i><i></i>
+          </div>
+        </div>
+      </div>
+      <p id="stage-goal" class="mission-status" hidden></p>
+      <p id="boss-progress" class="mission-status boss-status" hidden></p>
+      <div class="stage">
+        <canvas id="field" width="960" height="1200" role="img" aria-label="列车沿拼接轨道巡防，丧尸从场地四周靠近中央避难所。"></canvas>
+        <div class="stage-overlay" id="stage-overlay">
+          <div class="launch">
+            <p id="stage-eyebrow">战斗试玩</p>
+            <h2 id="stage-title">守住最后的货站</h2>
+            <p id="stage-copy">避难所被撞会掉护甲，耗尽就失守。攒满电芯，点卡答题装车。</p>
+            <button class="primary" type="button" id="stage-action">启动列车</button>
+          </div>
+        </div>
+      </div>
+      <div class="battle-foot">
+        <span id="radio" role="status">电台待命</span>
+        <span class="time"><span aria-hidden="true">⌛</span> <span id="time">—</span></span>
+      </div>
+    </section>
+
+    <aside class="loadout" aria-labelledby="loadout-title">
+      <div class="captain-strip">
+        <strong id="captain-name">车长</strong>
+        <span id="captain-pack">城市地点</span>
+        <span id="save-status" role="status">读取本机存档</span>
+      </div>
+      <div class="loadout-head">
+        <h2 id="loadout-title">改装台</h2>
+        <div class="battery-count"><span aria-hidden="true">★</span> <strong id="stars">0 / 4</strong></div>
+      </div>
+      <progress id="battery" value="0" max="4" aria-label="改装所需星形电芯"></progress>
+      <p class="card-guide" id="card-guide">击退丧尸，列车会吸收掉落的星形电芯。</p>
+
+      <div class="cards">
+        <button class="card rapid" type="button" data-upgrade="rapid" disabled>
+          <span class="card-icon" aria-hidden="true"><i></i><i></i><i></i></span>
+          <span class="card-text"><strong>速射车厢</strong><span>快速连发 · 补英文</span></span>
+          <span class="card-level" data-level="rapid"></span>
+        </button>
+        <button class="card arc" type="button" data-upgrade="arc" disabled>
+          <span class="card-icon" aria-hidden="true">ϟ</span>
+          <span class="card-text"><strong>电弧车厢</strong><span>连锁电击 · 英文跟读</span></span>
+          <span class="card-level" data-level="arc"></span>
+        </button>
+        <button class="card shock" type="button" data-upgrade="shock" disabled>
+          <span class="card-icon" aria-hidden="true">✹</span>
+          <span class="card-text"><strong>震荡车厢</strong><span>范围爆震 · 听英译中</span></span>
+          <span class="card-level" data-level="shock"></span>
+        </button>
+        <button class="card cold" type="button" data-upgrade="armor" disabled>
+          <span class="card-icon" aria-hidden="true">❄︎</span>
+          <span class="card-text"><strong>低温车厢</strong><span>给一小群减速 · 译后跟读</span></span>
+          <span class="card-level" data-level="armor"></span>
+        </button>
+      </div>
+
+      <div class="train-log">
+        <strong>列车编组</strong>
+        <span id="formation">基础车头</span>
+      </div>
+    </aside>
+  </main>
+
+  <dialog id="course-map" aria-labelledby="map-title">
+    <header class="map-head">
+      <h2 id="map-title">课程地图</h2>
+      <button type="button" id="map-close" autofocus>返回</button>
+    </header>
+    <div id="map-courses" class="map-courses" role="group" aria-label="选择课程"></div>
+    <section class="map-route" aria-labelledby="map-station">
+      <h3 id="map-station"></h3>
+      <p id="map-route-progress"></p>
+      <ol id="map-stages" class="map-track" role="list"></ol>
+    </section>
+    <p id="map-message" role="status" hidden></p>
+    <button type="button" id="map-endurance">进入百波耐久</button>
+  </dialog>
+
+  <dialog id="restart-dialog" aria-labelledby="restart-title" aria-describedby="restart-copy">
+    <h2 id="restart-title">从第 1 波重新开始？</h2>
+    <p id="restart-copy">本局的波数、星星和车厢会重置。车长档案、学习记录和关卡成绩会保留。</p>
+    <form class="restart-actions" method="dialog">
+      <button type="submit" id="restart-cancel" autofocus>返回本局</button>
+      <button type="button" id="restart-confirm">重新开始</button>
+    </form>
+  </dialog>
+
+  <dialog id="captain-panel" aria-labelledby="captain-title">
+    <div class="study-top">
+      <h2 id="captain-title">车长档案</h2>
+      <button type="button" id="captain-close">关闭</button>
+    </div>
+    <div class="profile-fields">
+      <label>切换车长<select id="captain-switch"></select></label>
+      <form class="profile-row" id="captain-create-form">
+        <label for="captain-nickname" class="sr-only">新车长昵称</label>
+        <input id="captain-nickname" maxlength="20" placeholder="新车长昵称" required>
+        <button type="submit" id="captain-create">新建</button>
+        <button type="button" id="captain-rename">改名</button>
+      </form>
+      <label>家长设置 · 本周主练词包<select id="captain-unit"></select></label>
+      <p class="profile-help">换词包在下一局生效。已保存的战局沿用开局词包。</p>
+      <div class="profile-section">
+        <h3>关卡进度</h3>
+        <p id="captain-campaign"></p>
+        <p id="captain-run"></p>
+      </div>
+      <div class="profile-section">
+        <h3>学习进度</h3>
+        <p id="captain-learning"></p>
+        <ul id="captain-skills" class="skill-list"></ul>
+      </div>
+      <div class="profile-section">
+        <h3>本机存档</h3>
+        <div class="profile-row profile-actions">
+          <button type="button" id="captain-export">导出 JSON</button>
+          <button type="button" id="captain-import">导入 JSON</button>
+          <button type="button" id="captain-restore">恢复导入前备份</button>
+        </div>
+        <input type="file" id="captain-file" accept=".json,application/json" hidden>
+        <div id="captain-import-preview" hidden>
+          <p id="captain-import-summary"></p>
+          <div class="profile-row profile-actions">
+            <button type="button" id="captain-import-copy">导入为新档</button>
+            <button type="button" id="captain-import-replace">确认替换当前档</button>
+          </div>
+        </div>
+        <div class="profile-row profile-actions">
+          <button type="button" id="captain-restart">本关重新开始</button>
+          <button type="button" id="captain-delete">删除档案</button>
+        </div>
+      </div>
+      <p id="captain-message" role="status" hidden></p>
+    </div>
+  </dialog>
+
+  <dialog id="workbench" aria-labelledby="workbench-title">
+    <div class="study-top">
+      <span class="dialog-label">战斗已暂停</span>
+      <output id="study-time" aria-label="剩余答题时间" aria-live="off"></output>
+    </div>
+    <h2 id="workbench-title">车厢改装</h2>
+    <p id="study-instructions"></p>
+    <div class="study-cue">
+      <button type="button" id="study-listen">播放英文</button>
+      <div class="study-heard">
+        <span id="study-source-label" hidden>英文原词</span>
+        <strong id="study-prompt" lang="en"></strong>
+      </div>
+    </div>
+    <form id="study-form" novalidate autocomplete="off">
+      <label id="study-input-label" for="study-input" hidden>答案</label>
+      <input id="study-input" type="text" spellcheck="false" autocapitalize="none" autocorrect="off" hidden>
+      <fieldset id="study-options" aria-label="选择答案" hidden></fieldset>
+      <p class="study-feedback" id="study-feedback" role="status" hidden></p>
+      <div class="study-controls">
+        <button type="button" id="study-hint">提示</button>
+        <button type="button" id="study-type-instead" hidden>改做输入题</button>
+        <button class="primary" type="button" id="study-download-voice" hidden>下载本机语音包</button>
+        <button class="primary" type="submit" id="study-submit">提交答案</button>
+      </div>
+    </form>
+    <button type="button" id="cancel-upgrade">返回战斗</button>
+  </dialog>
+  <noscript>需要启用 JavaScript 才能启动列车。</noscript>
+</body>
+</html>
